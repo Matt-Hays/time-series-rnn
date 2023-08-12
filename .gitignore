@@ -1,0 +1,9 @@
+bin/
+include/
+lib/
+share/
+prediction_data/
+trained_models/
+training_data/
+docker-compose.yml
+pyvenv.cfg
