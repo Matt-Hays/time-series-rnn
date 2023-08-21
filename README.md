@@ -4,7 +4,7 @@ The following program implements a Recursive Neural Network using TensorFlow.
 
 The program in its current state predicts a single day in the future. Additonaly predications can be obtained by feeding the result of the previous iteration into the next calculation _this is not implemented currently_.
 
-NOTE: This is an experiemental project that is **not** intended for production use. Financial markets are volatile and involve significant risk. This tool was developed as an experiemental and educational project. It is **not** intended to be used to make actual financial market decisions. It also has **not** been tested for correctness.
+NOTE: This is an educational example written as part of self-led studies regarding TensorFlow usage. Do **NOT** use this tool in production. It has not been tested nor is robust.
 
 Usage:
 
